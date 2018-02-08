@@ -1,5 +1,6 @@
 ---
-published: false
+layout: post
+title: A New post for Hyde
 ---
 ## A New Post
 
