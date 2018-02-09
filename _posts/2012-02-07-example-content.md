@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Example content
+title: _post/example-content-2.md
+published: true
 ---
 
 
